@@ -192,4 +192,9 @@ button {
   .card {
     flex-direction: column;
   }
+  #histories{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+  }
 }
